@@ -16,4 +16,4 @@
 ### 📊 GitHub Stats
 *(เปลี่ยนคำว่า YOUR_USERNAME เป็น Username ของคุณ)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chatkaew_CHOOSUEBSAI&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chatkaewc-cmd&show_icons=true&theme=tokyonight)
